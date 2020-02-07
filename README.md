@@ -3,7 +3,7 @@ School assigment to made simple java plugins with JOptionPane library...
 
 Content:
 
-[positiveOrNot.class](./positiveOrNot.class)
+[positiveOrNot.class](positiveOrNot.class)
 
 1.- positiveOrNot.class - Input a number and say if its positive or not.
 
