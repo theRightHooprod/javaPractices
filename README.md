@@ -3,6 +3,8 @@ School assigment to made simple java plugins with JOptionPane library...
 
 Content:
 
+[Contribution guidelines for this project](docs/positiveOrNot.class)
+
 1.- positiveOrNot.class - Input a number and say if its positive or not.
 
 2.- biggerBetter.class - Input two numbers and print the minor first.
