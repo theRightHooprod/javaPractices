@@ -7,9 +7,9 @@ public class threeMinorBigger {
         int num2;
         int num3;
         
-        int mayor = 0;
-        int mayor2 = 0;
-        int menor = 0;
+        int mayor;
+        int mayor2;
+        int menor;
         
         num1 = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingresa" +
                 " el primer numero "));

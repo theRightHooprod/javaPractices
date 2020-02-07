@@ -13,7 +13,7 @@ public class biggerBetter {
                 " el primer numero "));
             
             num2 = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingresa" +
-                " el primer numero "));
+                " el segundo numero "));
             
             if(num1 > num2){
                 JOptionPane.showMessageDialog(null, num1 + ", " + num2 + "...");
