@@ -1,7 +1,7 @@
-# about
+# javaPractices
 School assigment to made simple java plugins with JOptionPane library... I used netbeans to made these!
 
-# Content
+# index
 
 1.- [positiveOrNot.java](src/firstfoot/positiveOrNot.java) - Input a number and say if its positive or not.
 
