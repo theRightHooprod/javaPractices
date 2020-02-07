@@ -1,5 +1,5 @@
 # javaPractices
-School assigment to made simple java plugins with JOptionPane library...
+School assigment to work with JOptionPane library...
 
 # index
 
