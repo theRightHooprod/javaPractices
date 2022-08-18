@@ -1,7 +1,7 @@
 # javaPractices
-School assigment to work with JOptionPane library...
+School homework to work with JOptionPane library.
 
-# index
+## index
 
 1.- [positiveOrNot.java](src/firstfoot/positiveOrNot.java) - Input a number and say if its positive or not.
 
